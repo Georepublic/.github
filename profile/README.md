@@ -1,6 +1,4 @@
 [Georepublic](https://georepublic.info/de/) contributes to Free Software, and we support you in the custom development of Open Source GIS solutions.
 
-You can find us contribute to the following Github organisations:
-
 - **Maintainer**: [pgRouting](https://github.com/pgRouting), [GTT Project](https://github.com/gtt-project), [Consento](https://github.com/consento-org), [Ha4db](https://github.com/ha4db), [SensorAtlas](https://github.com/sensoratlas), [Ichnion](https://github.com/ichnion), [My City Report](https://github.com/mycityreport)
 - **Contributor**: [Code4Myself](https://github.com/Code4Myself), [Hyakumori](https://github.com/hyakumori), [Urban Sciences Lab](https://github.com/ursci), [OpertusMundi](https://github.com/OpertusMundi), [OSMFJ](https://github.com/osmfj), [PNext](https://github.com/pnext)
