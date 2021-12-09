@@ -2,16 +2,12 @@
 
 You can find us contribute to the following Github organisations:
 
-- https://github.com/pgRouting
-- https://github.com/gtt-project
-- https://github.com/consento-org
-- https://github.com/ha4db
-- https://github.com/sensoratlas
-- https://github.com/ichnion
-- https://github.com/Code4Myself
-- https://github.com/mycityreport
-- https://github.com/hyakumori
-- https://github.com/ursci
-- https://github.com/OpertusMundi
-- https://github.com/osmfj
-- https://github.com/pnext
+| Maintainer    | Contributor   |
+| ------------- | ------------- |
+| [pgRouting](https://github.com/pgRouting) | [Code4Myself](https://github.com/Code4Myself) |
+| [GTT Project](https://github.com/gtt-project) | [Hyakumori](https://github.com/hyakumori) |
+| [Consento](https://github.com/consento-org) | [Urban Sciences Lab](https://github.com/ursci) |
+| [Ha4db](https://github.com/ha4db) | [OpertusMundi](https://github.com/OpertusMundi) |
+| [SensorAtlas](https://github.com/sensoratlas) | [OSMFJ](https://github.com/osmfj) |
+| [Ichnion](https://github.com/ichnion) | [PNext](https://github.com/pnext) |
+| [My City Report](https://github.com/mycityreport) |  |
