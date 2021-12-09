@@ -1,4 +1,4 @@
-[Georepublic](https://georepublic.info/de/) appreciates and promotes the idea of Free Software, and we support you in the custom development of Open Source GIS solutions.
+[Georepublic](https://georepublic.info/de/) contributes to Free Software, and we support you in the custom development of Open Source GIS solutions.
 
 You can find us contribute to the following Github organisations:
 
